@@ -2,7 +2,8 @@
   <img src="https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/images/denis-istomin-chicco3.jpg" width="80%" alt="Welcome Banner"/>
 </p>
 
-<h1 align="center">ٱلسَّلَامُ عَلَيْكُمْ \n I'm Muhammad Azizur Rahman </h1>
+<h1 align="center">ٱلسَّلَامُ عَلَيْكُمْ 
+  I'm Muhammad Azizur Rahman </h1>
 
 <p align="center">
   <b>AI Engineer • LLM Automation • LangChain • n8n</b><br>
