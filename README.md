@@ -7,7 +7,7 @@
 
   <img src="https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/images/denis-istomin-chicco3.jpg" width="100%" alt="Welcome Banner"/>
 
-  <img src="https://readme-typing-svg.demolab.com/?lines=ALU%20Patal%20%7C%20Ministry%20of%20Defence%2C%20KSA;Life%20is%20Beautiful&font=Fira%20Code&center=true&width=600&height=50&duration=3000&pause=1500&color=6366F1" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=AI%20Engineer%20ALU%20LLM%20Automation%20ALU%20LangChain%20ALU%20n8n;Building%20practical%20AI%20systems&font=Fira%20Code&center=true&width=700&height=60&duration=3000&pause=1500&color=6366F1" />
 </div>
 
 
