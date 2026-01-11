@@ -1,9 +1,14 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/images/denis-istomin-chicco3.jpg" width="80%" alt="Welcome Banner"/>
-</p>
 
 <h1 align="center">ٱلسَّلَامُ عَلَيْكُمْ </h1>
 <h1 align="center">I'm Muhammad Azizur Rahman </h1>
+
+<p align="center">
+  <img src="[https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/images/denis-istomin-chicco3.jpg](https://capsule-render.vercel.app/api?type=waving&height=218&color=gradient&customColorList=6,12,18&text=ٱلسَّلَامُ%20عَلَيْكُمْ-nl-I'm%20Muhammad%20Azizur%20Rahman%20&animation=twinkling&fontSize=50&rotate=0&fontAlign=50&descAlignY=52&fontAlignY=31&section=header&reversal=true)" width="100%" alt="Welcome"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/images/denis-istomin-chicco3.jpg" width="80%" alt="Welcome Banner"/>
+</p>
 
 <p align="center">
   <b>AI Engineer • LLM Automation • LangChain • n8n</b><br>
