@@ -5,7 +5,10 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=1,2,6&text=ٱلسَّلَامُ%20عَلَيْكُمْ-nl-I'm%20Muhammad%20Azizur%20Rahman%20&animation=twinkling&fontSize=30&rotate=0&fontAlign=50&descAlignY=52&fontAlignY=25&section=header&reversal=true" width="100%" alt="Welcome"/>
 
+ <!-- 
   <img src="https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/images/denis-istomin-chicco3.jpg" width="100%" alt="Welcome Banner"/>
+  -->
+  <img src="./assets/ai_banner.jpg" width="100%" alt="Welcome Banner"/>
 
   <img src="https://readme-typing-svg.demolab.com/?lines=AI%20Engineer%20*%20LLM%20Automation%20*%20LangChain%20*%20n8n;Building%20practical%20AI%20systems&font=Fira%20Code&center=true&width=700&height=60&duration=3000&pause=1500&color=6366F1" />
 </div>
