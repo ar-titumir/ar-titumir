@@ -49,7 +49,7 @@
 
 ## 📫 Reach Me
 - 📧 Email: **azizureee19@gmail.com**
-- 🌐 Portfolio: https://sites.google.com/view/ar-titumir/
+- 🌐 Portfolio: https://ar-titumir.github.io
 
 ---
 
