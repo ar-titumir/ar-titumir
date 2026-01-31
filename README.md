@@ -17,19 +17,11 @@
 <p align="center">
   <a href="mailto:azizureee19@gmail.com"><img src="https://img.shields.io/badge/Email-azizureee19@gmail.com-blue?style=flat&logo=gmail"></a>
   <a href="https://github.com/ar-titumir"><img src="https://img.shields.io/badge/GitHub-ar--titumir-black?style=flat&logo=github"></a>
-  <a href="https://ar-titumir.github.io">
-  <img src="https://img.shields.io/badge/Portfolio-Visit_Me-8A2BE2?style=for-the-badge&logo=probot&logoColor=white" alt="Portfolio">
-</a>
+  
   <a href="https://ar-titumir.github.io">
   <img src="https://img.shields.io/badge/Website-ar--titumir.github.io-000000?style=for-the-badge&logo=google-earth&logoColor=white" alt="Portfolio">
-</a>
-  <a href="https://ar-titumir.github.io">
-  <img src="https://img.shields.io/badge/My_Portfolio-Live_Demo-blue?style=for-the-badge&logo=lightning&logoColor=white" alt="Portfolio">
-</a>
-  <a href="https://ar-titumir.github.io">
-  <img src="https://img.shields.io/badge/Portfolio-100%25-success?style=flat-square&logo=github" alt="Portfolio">
-</a>
-  </p>
+  </a>
+</p>
 
 ---
 
